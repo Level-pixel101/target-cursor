@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import TargetCursor from './TargetCursor';
+import TargetCursor from './components/TargetCursor.jsx';
 import './App.css';
 
 export default function App() {
